@@ -1,0 +1,16 @@
+{
+  "name": "shaunmac/mfp-policies",
+  "description": "Woocommerce payment gateway",
+  "keywords": ["wordpress", "plugin"],
+  "homepage": "https://github.com/shaunmac/mfp-policies",
+  "authors": [
+    {
+      "name": "MFP Policies",
+      "homepage": "https://www.moneyfreeparty.org.nz/"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=5.6"
+  }
+}
