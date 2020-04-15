@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name: Movie Reviews
+Plugin Name: Money Free Party Policies
 Plugin URI: http://moneyfreeparty.org.nz
 Description: Declares a plugin that will create a custom post type displaying party policies.
-Version: 1.0
+Version: 1.0.2
 Author: Shaun MacDougall
 Author URI: http://shaunmacdougall.com
 License: GPLv2
